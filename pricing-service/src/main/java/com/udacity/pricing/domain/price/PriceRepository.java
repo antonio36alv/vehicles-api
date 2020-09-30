@@ -1,8 +1,8 @@
 package com.udacity.pricing.domain.price;
 
-import org.springframework.stereotype.Repository;
+import org.springframework.data.repository.CrudRepository;
+import com.udacity.pricing.domain.price.Price;
 
-@Repository
-public interface PriceRepository {
+public interface PriceRepository extends CrudRepository<Price, Long> {
 
 }

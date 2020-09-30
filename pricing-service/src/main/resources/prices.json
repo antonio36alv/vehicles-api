@@ -1,0 +1,102 @@
+[
+    { 
+        "currency": "USD",
+        "price": 29384.20,
+        "vehicleId": 1
+    }, 
+    { 
+        "currency": "CAD",
+        "price": 29103.44,
+        "vehicleId": 2
+    }, 
+    { 
+        "currency": "NZD",
+        "price": 19382.98,
+        "vehicleId": 3
+    }, 
+    { 
+        "currency": "CAD",
+        "price": 19999.99,
+        "vehicleId": 4
+    }, 
+    { 
+        "currency": "EUR",
+        "price": 21445.49,
+        "vehicleId": 5
+    }, 
+    { 
+        "currency": "CHF",
+        "price": 18301.44,
+        "vehicleId": 6
+    }, 
+    { 
+        "currency": "JPY",
+        "price": 22818.18,
+        "vehicleId": 7
+    }, 
+    { 
+        "currency": "AUD",
+        "price": 29384.20,
+        "vehicleId": 8
+    }, 
+    { 
+        "currency": "USD",
+        "price": 41293.28,
+        "vehicleId": 9
+    }, 
+    { 
+        "currency": "JPY",
+        "price": 39200.10,
+        "vehicleId": 10
+    }, 
+    { 
+        "currency": "GBP",
+        "price": 29481.40,
+        "vehicleId": 11
+    }, 
+    { 
+        "currency": "USD",
+        "price": 19388.19,
+        "vehicleId": 12
+    }, 
+    { 
+        "currency": "AUD",
+        "price": 29855.85,
+        "vehicleId": 13
+    }, 
+    { 
+        "currency": "CAD",
+        "price": 29384.20,
+        "vehicleId": 14
+    }, 
+    { 
+        "currency": "CHF",
+        "price": 20401.80,
+        "vehicleId": 15
+    }, 
+    { 
+        "currency": "GBP",
+        "price": 28119.31,
+        "vehicleId": 16
+    }, 
+    { 
+        "currency": "NZD",
+        "price": 19378.19,
+        "vehicleId": 17
+    }, 
+    { 
+        "currency": "EUR",
+        "price": 21818.98,
+        "vehicleId": 18
+    }, 
+    { 
+        "currency": "JPY",
+        "price": 28319.92,
+        "vehicleId": 19
+    }, 
+    { 
+        "currency": "USD",
+        "price": 38810.87,
+        "vehicleId": 20
+    }
+]
