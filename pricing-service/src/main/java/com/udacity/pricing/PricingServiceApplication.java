@@ -34,11 +34,12 @@ public class PricingServiceApplication {
 
     @PostConstruct
     void run() throws IOException {
-        System.out.println("we in there doe");
+//        System.out.println("we in there doe");
         ObjectMapper objectMapper = new ObjectMapper();
 //        File json = new File(getClass().getResource("prices.json").getFile());
-        File json = ResourceUtils.getFile("classpath:prices.json");
-//        File json = new ClassPathResource("prices.json").getFile();
+//        File json = ResourceUtils.getFile("classpath:prices.json");
+        System.out.println("this changed");
+        File json = new ClassPathResource("prices.json").getFile();
         Price[] prices = objectMapper.readValue(json, Price[].class);
 
         for(Price price : prices) {
